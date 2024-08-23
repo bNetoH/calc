@@ -9,6 +9,9 @@ Criando uma Calculadora com React
 3. Entre com o segundo operando.
 4. Clica no sinal de igual(=) para obter o resultado.
 
+![print screen](img/printscreen.png "printscreen.png")
+
+
 In the project directory, you can run:
 
 ### `npm start`
